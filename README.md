@@ -6,6 +6,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Siddu-Praneeth/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Prefix Sum
@@ -15,10 +16,12 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |

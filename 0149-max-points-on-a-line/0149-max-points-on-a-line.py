@@ -16,7 +16,6 @@ class Solution:
                 x1, y1 = points[i]
                 x2, y2 = points[j]
 
-                # Vertical line
                 if x1 == x2:
                     slope = "inf"
                 else:

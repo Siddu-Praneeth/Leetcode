@@ -17,7 +17,7 @@ class Solution:
                 x2, y2 = points[j]
 
                 if x1 == x2:
-                    slope = "inf"
+                    slope = "SIDD"
                 else:
                     slope = (y2 - y1) / (x2 - x1)
 

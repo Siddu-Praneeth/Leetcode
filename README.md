@@ -6,6 +6,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0812-largest-triangle-area](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
@@ -68,4 +69,12 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0233-number-of-digit-one](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->

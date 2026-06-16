@@ -8,6 +8,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0137-single-number-ii/) | Medium |
@@ -68,6 +69,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0119-pascals-triangle-ii](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0233-number-of-digit-one](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 ## Recursion

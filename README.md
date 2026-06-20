@@ -6,6 +6,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -45,6 +46,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |

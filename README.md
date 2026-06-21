@@ -7,6 +7,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -90,4 +91,12 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->

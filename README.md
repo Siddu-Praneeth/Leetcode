@@ -26,6 +26,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0089-gray-code](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0223-rectangle-area](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0223-rectangle-area/) | Medium |
@@ -48,6 +49,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Greedy
@@ -95,6 +97,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Trie

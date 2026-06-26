@@ -28,6 +28,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0089-gray-code](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |

@@ -19,6 +19,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [0812-largest-triangle-area](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Siddu-Praneeth/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |

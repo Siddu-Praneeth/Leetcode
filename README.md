@@ -136,10 +136,12 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0100-same-tree/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0100-same-tree/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +150,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0100-same-tree/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

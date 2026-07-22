@@ -16,6 +16,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [0136-single-number](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0217-contains-duplicate](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -66,6 +67,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [0012-integer-to-roman](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0217-contains-duplicate](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -109,6 +111,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0217-contains-duplicate](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |

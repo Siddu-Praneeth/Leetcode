@@ -17,6 +17,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [0137-single-number-ii](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0217-contains-duplicate](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -44,6 +45,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [0223-rectangle-area](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0371-sum-of-two-integers](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -112,6 +114,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |

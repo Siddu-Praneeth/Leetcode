@@ -49,6 +49,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [0812-largest-triangle-area](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -129,6 +131,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [0014-longest-common-prefix](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |

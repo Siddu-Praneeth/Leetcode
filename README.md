@@ -17,6 +17,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [0137-single-number-ii](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0217-contains-duplicate](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0486-predict-the-winner](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
@@ -45,6 +46,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [0223-rectangle-area](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0371-sum-of-two-integers](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0486-predict-the-winner](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
@@ -102,10 +104,12 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [0119-pascals-triangle-ii](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0233-number-of-digit-one](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
+| [0486-predict-the-winner](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0233-number-of-digit-one](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
+| [0486-predict-the-winner](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +181,8 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->

@@ -194,4 +194,12 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->

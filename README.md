@@ -30,6 +30,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Siddu-Praneeth/Leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Siddu-Praneeth/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
@@ -98,6 +99,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [0137-single-number-ii](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |

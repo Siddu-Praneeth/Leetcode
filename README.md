@@ -48,6 +48,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [0149-max-points-on-a-line](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0223-rectangle-area](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
+| [0292-nim-game](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0486-predict-the-winner](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -192,6 +193,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0877-stone-game/) | Medium |
 ## Enumeration
@@ -201,6 +203,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0877-stone-game/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -210,4 +213,16 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->

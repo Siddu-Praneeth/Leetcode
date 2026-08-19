@@ -9,6 +9,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [0001-two-sum](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -44,6 +45,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [0002-add-two-numbers](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0066-plus-one](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0089-gray-code](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0223-rectangle-area](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0223-rectangle-area/) | Medium |

@@ -34,6 +34,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |

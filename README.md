@@ -62,6 +62,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3870-count-commas-in-range](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |

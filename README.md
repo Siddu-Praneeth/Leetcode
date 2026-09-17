@@ -150,6 +150,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -234,4 +235,12 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->

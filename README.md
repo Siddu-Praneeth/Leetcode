@@ -263,4 +263,5 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->

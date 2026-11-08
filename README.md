@@ -25,6 +25,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [0812-largest-triangle-area](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -83,6 +84,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +174,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -183,10 +186,12 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0100-same-tree/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,4 +271,8 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0197-rising-temperature/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 <!---LeetCode Topics End-->

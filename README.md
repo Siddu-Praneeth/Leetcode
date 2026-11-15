@@ -28,6 +28,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [1267-count-servers-that-communicate](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -42,6 +43,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Siddu-Praneeth/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -65,6 +67,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [0836-rectangle-overlap](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Siddu-Praneeth/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -128,6 +131,7 @@ Tracking my LeetCode journey through structured Data Structures and Algorithms p
 | [0233-number-of-digit-one](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0486-predict-the-winner](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Siddu-Praneeth/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Siddu-Praneeth/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
